@@ -10,6 +10,7 @@ Name | Description | Issues
 **i-Educar** | Lançando o maior software livre de educação do Brasil! |[https://github.com/portabilis/i-educar](https://github.com/portabilis/i-educar)
 **Blueprint SDK Maker** | Gerador automático de SDK em PHP a partir de arquivo de documentação do API Blueprint |[https://github.com/vitormattos/blueprint-sdk-maker](https://github.com/vitormattos/blueprint-sdk-maker)
 **corcel** | Use WordPress backend with Laravel or any PHP application |[https://github.com/corcel/corcel](https://github.com/corcel/corcel)
+**PHPDF** | Bot para divulgação de vagas no canal [VagasTI_Brasil](https://t.me/VagasBrasil_TI) |[https://github.com/celorodovalho/phpdfbot](https://github.com/celorodovalho/phpdfbot)
 **PHPRio** | PHPRio Website |[https://github.com/phprio/site/](https://github.com/phprio/site/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
 **PHPSP** | PHPSP Website |[https://github.com/PHPSP/phpsp.org.br/](https://github.com/PHPSP/phpsp.org.br/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
 **OMR** | Optical Mark Recognition with PHP | https://github.com/jansenfelipe/omr/issues
