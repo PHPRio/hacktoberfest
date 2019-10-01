@@ -9,7 +9,7 @@ Name | Description | Issues
 --- | --- | --- 
 **i-Educar** | Lançando o maior software livre de educação do Brasil! |[https://github.com/portabilis/i-educar](https://github.com/portabilis/i-educar)
 **corcel** | Use WordPress backend with Laravel or any PHP application |[https://github.com/corcel/corcel](https://github.com/corcel/corcel)
-**PHPRio** | PHPRio Website |[https://github.com/phprio/site/](https://github.com/phprio/site)
+**PHPRio** | PHPRio Website |[https://github.com/phprio/site/](https://github.com/phprio/site/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
 **PHPSP** | PHPSP Website |[https://github.com/PHPSP/phpsp.org.br/](https://github.com/PHPSP/phpsp.org.br/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
 **OMR** | Optical Mark Recognition with PHP | https://github.com/jansenfelipe/omr/issues
 **PHPJasper** | A PHP Report Generator | [https://github.com/PHPJasper/phpjasper/](https://github.com/PHPJasper/phpjasper/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest)
