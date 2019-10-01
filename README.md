@@ -11,3 +11,5 @@ Name | Description | Issues
 **corcel** | Use WordPress backend with Laravel or any PHP application |[https://github.com/corcel/corcel](https://github.com/corcel/corcel)
 **PHPSP** | PHPSP Website |[https://github.com/PHPSP/phpsp.org.br/](https://github.com/PHPSP/phpsp.org.br/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
 **OMR** | Optical Mark Recognition with PHP | https://github.com/jansenfelipe/omr/issues
+**PHPJasper** | A PHP Report Generator | https://github.com/PHPJasper/phpjasper/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest
+**LaraValidator Docs - Brasil** | Biblioteca Laravel para validação de documentos BR | https://github.com/geekcom/validator-docs/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest
