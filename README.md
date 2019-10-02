@@ -8,6 +8,7 @@ Lista de projetos [PHP](https://www.php.net) brasileiros aceitando contribuiçõ
 Name | Description | Issues
 --- | --- | --- 
 **Blueprint SDK Maker** | Gerador automático de SDK em PHP a partir de arquivo de documentação do API Blueprint |[https://github.com/vitormattos/blueprint-sdk-maker](https://github.com/vitormattos/blueprint-sdk-maker)
+**Conferencias.Dev** | Agregador das conferências de desenvolvimento do Brasil! | [https://github.com/conferencias-dev/conferencias-dev](https://github.com/conferencias-dev/conferencias-dev)
 **corcel** | Use WordPress backend with Laravel or any PHP application |[https://github.com/corcel/corcel](https://github.com/corcel/corcel)
 **i-Educar** | Lançando o maior software livre de educação do Brasil! |[https://github.com/portabilis/i-educar](https://github.com/portabilis/i-educar)
 **LaraValidator Docs - Brasil** | Biblioteca Laravel para validação de documentos BR | [https://github.com/geekcom/validator-docs/](https://github.com/geekcom/validator-docs/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest)
