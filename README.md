@@ -16,3 +16,4 @@ Name | Description | Issues
 **PHPJasper** | A PHP Report Generator | [https://github.com/PHPJasper/phpjasper/](https://github.com/PHPJasper/phpjasper/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest)
 **PHPRio** | PHPRio Website |[https://github.com/phprio/site/](https://github.com/phprio/site)
 **PHPSP** | PHPSP Website |[https://github.com/PHPSP/phpsp.org.br/](https://github.com/PHPSP/phpsp.org.br/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
+**PlugRoute** | Biblioteca de rotas em PHP |[https://github.com/erandirjunior/plug-route](https://github.com/erandirjunior/plug-route)
