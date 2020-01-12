@@ -18,4 +18,6 @@ Name | Description | Issues
 **PHPRio** | PHPRio Website |[https://github.com/phprio/site/](https://github.com/phprio/site)
 **PHPSP** | PHPSP Website |[https://github.com/PHPSP/phpsp.org.br/](https://github.com/PHPSP/phpsp.org.br/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
 **PlugRoute** | Biblioteca de rotas em PHP |[https://github.com/erandirjunior/plug-route](https://github.com/erandirjunior/plug-route)
+**Php-the-right-way** | Post úteis e simples sobre PHP e possibilidade de tradução. Criado pelo PHPSP. [https://github.com/PHPSP/php-the-right-way](https://github.com/PHPSP/php-the-right-way)
+**Caronaê** | Projeto de carona compartilhada da UFRJ [https://github.com/caronae/caronae-backend](https://github.com/caronae/caronae-backend).
 
