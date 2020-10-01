@@ -22,3 +22,4 @@ Name | Description | Issues
 **PHPSP** | PHPSP Website |[https://github.com/PHPSP/phpsp.org.br/](https://github.com/PHPSP/phpsp.org.br/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
 **PlugRoute** | Biblioteca de rotas em PHP |[https://github.com/erandirjunior/plug-route](https://github.com/erandirjunior/plug-route)
 **Respect/Validation** | O mecanismo de validação mais impressionante já criado para PHP |[https://github.com/Respect/Validation](https://github.com/Respect/Validation/issues)
+**WhatsApp Client** | Um cliente para o WhatsApp Web feito em PHP  |[https://github.com/LyseonTech/whatsapp-client](https://github.com/Respect/LyseonTech/whatsapp-client)
