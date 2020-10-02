@@ -22,4 +22,5 @@ Name | Description | Issues
 **PHPSP** | PHPSP Website |[https://github.com/PHPSP/phpsp.org.br/](https://github.com/PHPSP/phpsp.org.br/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
 **PlugRoute** | Biblioteca de rotas em PHP |[https://github.com/erandirjunior/plug-route](https://github.com/erandirjunior/plug-route)
 **Respect/Validation** | O mecanismo de validação mais impressionante já criado para PHP |[https://github.com/Respect/Validation](https://github.com/Respect/Validation/issues)
+**Távola** | Um app para realização de assembleias online no Nextcloud |[https://github.com/LyseonTech/tavola](https://github.com/LyseonTech/tavola)
 **WebDsv** | Web Digital Signature Validator, página para validação de assinaturas digitais padrão ICP em documentos PDF |[https://github.com/LyseonTech/webdsv](https://github.com/LyseonTech/webdsv)
