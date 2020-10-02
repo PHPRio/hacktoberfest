@@ -24,3 +24,4 @@ Name | Description | Issues
 **Respect/Validation** | O mecanismo de validação mais impressionante já criado para PHP |[https://github.com/Respect/Validation](https://github.com/Respect/Validation/issues)
 **Távola** | Um app para realização de assembleias online no Nextcloud |[https://github.com/LyseonTech/tavola](https://github.com/LyseonTech/tavola)
 **WebDsv** | Web Digital Signature Validator, página para validação de assinaturas digitais padrão ICP em documentos PDF |[https://github.com/LyseonTech/webdsv](https://github.com/LyseonTech/webdsv)
+**WhatsApp Client** | Um cliente para o WhatsApp Web feito em PHP  |[https://github.com/LyseonTech/whatsapp-client](https://github.com/LyseonTech/whatsapp-client)
