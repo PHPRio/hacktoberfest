@@ -20,6 +20,8 @@ Name | Description | Issues
 **PHPDF** | Bot para divulgação de vagas no canal [VagasTI_Brasil](https://t.me/VagasBrasil_TI) |[https://github.com/celorodovalho/phpdfbot](https://github.com/celorodovalho/phpdfbot)
 **PHPJasper** | A PHP Report Generator | [https://github.com/PHPJasper/phpjasper/](https://github.com/PHPJasper/phpjasper/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest)
 **PHPRio** | PHPRio Website |[https://github.com/phprio/site/](https://github.com/phprio/site)
+**PHPSC** | PHPSC Website | [https://github.com/PHPSC/phpsc.github.io/](https://github.com/PHPSC/phpsc.github.io/)
+**PHPSC Conf** | PHPSC Conf Hotsite | [https://github.com/PHPSC/site-conf/](https://github.com/PHPSC/site-conf/)
 **PHPSP** | PHPSP Website |[https://github.com/PHPSP/phpsp.org.br/](https://github.com/PHPSP/phpsp.org.br/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
 **PlugRoute** | Biblioteca de rotas em PHP |[https://github.com/erandirjunior/plug-route](https://github.com/erandirjunior/plug-route)
 **Respect/Validation** | O mecanismo de validação mais impressionante já criado para PHP |[https://github.com/Respect/Validation](https://github.com/Respect/Validation/issues)
