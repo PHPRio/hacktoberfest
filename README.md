@@ -15,6 +15,7 @@ Name | Description | Issues
 **i-Educar** | Lançando o maior software livre de educação do Brasil! |[https://github.com/portabilis/i-educar](https://github.com/portabilis/i-educar)
 **LaraValidator Docs - Brasil** | Biblioteca Laravel para validação de documentos BR | [https://github.com/geekcom/validator-docs/](https://github.com/geekcom/validator-docs/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest)
 **Laravel Query Monitor** | Simple artisan command to monitoring triggered queries | [https://github.com/supliu/laravel-query-monitor](https://github.com/supliu/laravel-query-monitor/issues)
+**LSTelegramNotify** | LimeSurvey Plugin to send AfterSurveyComplete notification to Telegram  | [https://github.com/LyseonTech/LSTelegramNotify](https://github.com/LyseonTech/LSTelegramNotify)
 **OMR** | Optical Mark Recognition with PHP | https://github.com/jansenfelipe/omr/issues
 **PHP-the-right-way** | Post úteis e simples sobre PHP e possibilidade de tradução. Criado pelo PHPSP. | [https://github.com/PHPSP/php-the-right-way](https://github.com/PHPSP/php-the-right-way)
 **PHPDF** | Bot para divulgação de vagas no canal [VagasTI_Brasil](https://t.me/VagasBrasil_TI) |[https://github.com/celorodovalho/phpdfbot](https://github.com/celorodovalho/phpdfbot)
