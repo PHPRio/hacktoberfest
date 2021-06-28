@@ -10,8 +10,7 @@ Name | Description | Issues
 **Blueprint SDK Maker** | Gerador automático de SDK em PHP a partir de arquivo de documentação do API Blueprint |[https://github.com/vitormattos/blueprint-sdk-maker](https://github.com/vitormattos/blueprint-sdk-maker)
 **Caronaê** | Projeto de carona compartilhada da UFRJ |[https://github.com/caronae/caronae-backend](https://github.com/caronae/caronae-backend)
 **corcel** | Use WordPress backend with Laravel or any PHP application |[https://github.com/corcel/corcel](https://github.com/corcel/corcel)
-**DOU-Collector** | Coletor de dados do Diário Oficial |[https://github.com/LibreCodeCoop/dou-collector](https://github.com/
-/dou-collector)
+**DOU-Collector** | Coletor de dados do Diário Oficial |[https://github.com/LibreCodeCoop/dou-collector](https://github.com/LibreCodeCoop/dou-collector)
 **Google Crawler** | A simple Crawler for getting Google results | [https://github.com/CViniciusSDias/google-crawler](https://github.com/CViniciusSDias/google-crawler/issues)
 **i-Educar** | Lançando o maior software livre de educação do Brasil! |[https://github.com/portabilis/i-educar](https://github.com/portabilis/i-educar)
 **LaraValidator Docs - Brasil** | Biblioteca Laravel para validação de documentos BR | [https://github.com/geekcom/validator-docs/](https://github.com/geekcom/validator-docs/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest)
